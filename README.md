@@ -1,2 +1,2 @@
 # ruby-beginner-projects
-Practicing starter projects with ruby
+Practicing starter projects with Ruby
